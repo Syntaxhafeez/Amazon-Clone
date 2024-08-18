@@ -1,13 +1,13 @@
-# Amazon Clone Project
+# Amazon Clone Project 🧑🏻‍💻
 
 This project is a clone of the Amazon global version website's landing page. It is designed to showcase coding skills and replicate the visual aspects of the original site.
 
-## Features
+## Features 😎
 
 - **Landing Page Design**: Full replication of Amazon's global landing page.
 - **Simple Static Site**: Utilizes HTML and CSS for layout and styling.
 
-## Technologies Used
+## Technologies Used 🌐
 
 - **HTML**: For structuring the content.
 - **CSS**: For styling and layout.
@@ -30,7 +30,7 @@ Run the Project
 
 Open the index.html file in any modern web browser to view the landing page.
 
-# Usage
+# Usage 🔃
 Create Files
 
 index.html: Place the HTML code here.
@@ -39,7 +39,7 @@ Open in Browser
 
 Double-click on index.html or open it through a web server to view the landing page.
 
-# Screenshots
+# Screenshots 📸
 
 ![Screenshot 2024-08-18 182807](https://github.com/user-attachments/assets/8535f5dd-80f4-495b-9b17-c2345b8d5dd7)
 <br>
@@ -47,5 +47,5 @@ Double-click on index.html or open it through a web server to view the landing p
 <br>
 ![Screenshot 2024-08-18 185109](https://github.com/user-attachments/assets/8864e3b0-1705-4ee6-953e-019f0ae8ab37)
 
-# Contact Information
-For questions or feedback, you can connect with me on Instagram: @syntaxhafeez
+# Contact Information 🧑🏻‍💻
+For questions or feedback, you can connect with me on Instagram: @syntaxhafeez.
