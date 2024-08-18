@@ -42,6 +42,10 @@ Double-click on index.html or open it through a web server to view the landing p
 # Screenshots
 
 ![Screenshot 2024-08-18 182807](https://github.com/user-attachments/assets/8535f5dd-80f4-495b-9b17-c2345b8d5dd7)
+<br>
+![Screenshot 2024-08-18 185055](https://github.com/user-attachments/assets/ceed3585-677b-4b33-aa58-1fede41ea758)
+<br>
+![Screenshot 2024-08-18 185109](https://github.com/user-attachments/assets/8864e3b0-1705-4ee6-953e-019f0ae8ab37)
 
 # Contact Information
 For questions or feedback, you can connect with me on Instagram: @syntaxhafeez
