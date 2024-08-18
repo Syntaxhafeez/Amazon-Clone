@@ -48,4 +48,4 @@ Double-click on index.html or open it through a web server to view the landing p
 ![Screenshot 2024-08-18 185109](https://github.com/user-attachments/assets/8864e3b0-1705-4ee6-953e-019f0ae8ab37)
 
 # Contact Information 🧑🏻‍💻
-For questions or feedback, you can connect with me on Instagram: @syntaxhafeez.
+For questions or feedback, you can connect with me on Instagram: @syntaxhafeez
