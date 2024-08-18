@@ -41,7 +41,7 @@ Double-click on index.html or open it through a web server to view the landing p
 
 Screenshots
 
-https://github.com/user-attachments/assets/8535f5dd-80f4-495b-9b17-c2345b8d5dd7
+![Screenshot 2024-08-18 182807](https://github.com/user-attachments/assets/8535f5dd-80f4-495b-9b17-c2345b8d5dd7)
 
 # Contact Information
 For questions or feedback, you can connect with me on Instagram: @syntaxhafeez
